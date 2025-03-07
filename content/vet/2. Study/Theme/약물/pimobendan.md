@@ -1,6 +1,7 @@
 ---
 share: "true"
 aliases: 
+ph_구분: 강심제
 ---
 
 > ##### 기본 정보
