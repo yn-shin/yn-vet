@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 페노바비탈
-ph_구분:
+ph:
   - 항경련제
 ---
 
