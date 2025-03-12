@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 푸로세마이드
   - furosemide
-ph_구분:
+ph:
   - 이뇨제
 ---
 

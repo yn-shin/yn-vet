@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 와파린
-ph_구분:
+ph:
   - 항응고제
 ---
 
