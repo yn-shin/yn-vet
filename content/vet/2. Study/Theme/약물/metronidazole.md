@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 메트로니다졸
-ph_구분:
+ph:
   - 항원충제
 ---
 
