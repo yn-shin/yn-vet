@@ -36,7 +36,7 @@ title: yn-vet
 >	- 예를 들어 `^[내용]`은 각주, `==`는 형광펜, `**`는 볼드체 표시인데, 가끔 깨지더라구요🥹
 >	- 목차를 눌렀을 때 해당 제목으로 이동하는 기능도 구현되지 않습니다,, **검색** (`Ctrl+F`) 추천!
 > - 표는 화면이 넓어야 잘 보여서, PC로 보거나, **PC버전 - 배율 축소**해서 보는 걸 추천합니다!
-> - 필요한 자료는 인터넷의 **[인쇄]** (`Ctrl+P`) 기능으로 PDF 저장 가능합니다! 이런 식으로.. <br>!![image|300](https://github.com/user-attachments/assets/84956b16-79f4-4cda-add9-10cbe07db1e0)
+> - 필요한 자료는 인터넷의 **[인쇄]** (`Ctrl+P`) 기능으로 PDF 저장 가능합니다! 이런 식으로.. <br>![image|250](https://github.com/user-attachments/assets/84956b16-79f4-4cda-add9-10cbe07db1e0)
 
 
 
