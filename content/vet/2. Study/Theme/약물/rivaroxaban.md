@@ -4,13 +4,13 @@ aliases:
   - 자렐토
   - Xarelto
   - XARELTO
-ph_구분:
+ph:
   - 항응고제
 ---
 
 > ##### 기본 정보
 
-- 제품명 :: Xarelto(자렐토)
+- 제품명 :: 자렐토(Xarelto)
 - 분류 :: 항응고제 > 응고인자 Xa inhibitor
 - 특징 :: 
 - 임상 :: IMHA, 뇌경색
