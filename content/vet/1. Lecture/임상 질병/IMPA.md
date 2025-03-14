@@ -43,4 +43,4 @@ SLE에 의해서도 나타날 수 있음.
 - [[남내1(B) - 09. Polyarthritis (IMPA)|남내1(B) - 09. Polyarthritis (IMPA)]]
 - [[남내1(B) - 10. SLE|남내1(B) - 10. SLE]] : IMPA와 같이 나타날 수 있음.
 - [[남내1(B) - 13. Polymyositis|남내1(B) - 13. Polymyositis]] : 근염과 함께 나타날 수 있음.
-- [[URI (feline)|URI (feline)]] : 고양이에서 calicivirus 감염으로 다발성 관절염 나타날 수 있음.
+- [[FURD|FURD]] : 고양이에서 calicivirus 감염으로 다발성 관절염 나타날 수 있음.
