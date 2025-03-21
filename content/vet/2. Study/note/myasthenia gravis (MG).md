@@ -3,6 +3,28 @@ share: "true"
 aliases:
   - 중증 근무력증
   - Myasthenia gravis
+Abbr: 
+한글명: 
+tags: 
+과목: 
+범위: 
+num: 
+---
+
+> 기본 정보
+
+- Fullname ::
+- 강의록 ::
+
+> 내용
+
+> 관련 수업 내용
+
+---
+share: "true"
+aliases:
+  - 중증 근무력증
+  - Myasthenia gravis
 ---
 
 중증 근무력증.
