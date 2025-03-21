@@ -1,7 +1,9 @@
 ---
 share: "true"
-aliases: 
-ph_구분: 
+aliases:
+  - Cefazolin
+ph:
+  - 항생제
 ---
 
 > ##### 기본 정보
