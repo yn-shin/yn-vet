@@ -3,8 +3,6 @@ share: "true"
 ---
 
 
-![[Figure. 후두의 구조.png|1100]]
-
 #### 후두의 구조
 구성하는 물질에 따라 연골, 인대, 공간 3가지로 구분할 수 있다.
 
@@ -26,3 +24,6 @@ share: "true"
 > 3) 공간
 
 - Ventricle (vestibular - vocal fold 사이의 공간)
+
+
+![[Figure. 후두의 구조.png|1100]]
