@@ -35,6 +35,8 @@ share: "true"
 
 ![[Miro_ ANS (자율신경).jpg|Miro_ ANS (자율신경).jpg]]
 
+>[!note]
+>![[Figure. Vagus nerve.jpg|Figure. Vagus nerve.jpg]]
 #### CNS
 
 ![[Miro_ 뇌신경 정리.jpg|Miro_ 뇌신경 정리.jpg]]
