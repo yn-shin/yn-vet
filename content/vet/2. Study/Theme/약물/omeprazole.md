@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 오메프라졸
 ph:
-  - 위장관약물
+  - 위산 억제제
 ---
 
 
@@ -11,7 +11,7 @@ ph:
 > ##### 기본 정보
 
 - 제품명 :: 오메드
-- 분류 :: 위장관약물 > Proton pump inhibitor
+- 분류 :: 위산 억제제 > Proton pump inhibitor
 - 특징 :: 위산 분비를 억제함. 
 - 임상 :: 
 
