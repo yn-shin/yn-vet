@@ -28,7 +28,6 @@ share: "true"
 - [[aspirin|aspirin]]은 전통적인 NSAID지만, 고용량에서만 소염작용을 나타내 잘 사용하지 않는다.
 - 심혈관사고 예방 목적으로 저용량에서 훨씬 자주 사용된다.
 - [[COX|COX]] 활성의 비가역적 억제제라는 점에서 다른 NSAIDs와 구별된다.
-- [[COX|COX]] : Cyclooxygenase
 
 ## 작용기전
 
