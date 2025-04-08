@@ -161,7 +161,7 @@ LP
 - glumerular 손상에 의해 발생.
 - 단백질이 신장을 통해 소실됨. 
 - immune complex나 amyloid가 사구체에 침착될때
-- 단백질 농도의 감손느 있지만 globulin 감소는 없다
+- 단백질 농도의 감소는 있지만 globulin 감소는 없다
 	- microalbuminuria , 알부민 MW가 사구체를 통과하는 threshold 근처
 	- normoglobulinuria : 글로불린의 MW가 사구체를 통과할 수 없는 크기이므로. 
 	- Proteinuria는 albuminuria로 관찰된다. 
