@@ -8,7 +8,7 @@ ph:
 > ##### 기본 정보
 
 - 제품명 ::
-- 분류 :: 콜린성 작용제 > Indirect Acting
+- 분류 :: 콜린성 작용제 > 간접 작용성 (Acetylcholinesterase inhibitor) 
 - 특징 :: 
 - 임상 :: 
 
