@@ -2,6 +2,7 @@
 share: "true"
 aliases:
   - 오메프라졸
+  - Omeprazole
 ph:
   - 위산 억제제
 ---
