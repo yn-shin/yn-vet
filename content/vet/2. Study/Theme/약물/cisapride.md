@@ -8,7 +8,7 @@ ph:
 > ##### 기본 정보
 
 - 제품명 ::
-- 분류 :: Prokinetics
+- 분류 :: Prokinetics (Serotonin 4 작용제)
 - 특징 :: 
 - 임상 :: 
 

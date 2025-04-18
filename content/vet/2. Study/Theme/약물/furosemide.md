@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 푸로세마이드
-  - furosemide
+  - Furosemide
 ph:
   - 이뇨제
 ---
