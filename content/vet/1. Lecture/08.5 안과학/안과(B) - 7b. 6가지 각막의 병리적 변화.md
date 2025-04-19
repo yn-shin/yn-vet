@@ -29,7 +29,7 @@ share: "true"
 	- 면역억제제 사용하면 됨. - cyclosporine(옵티뮨?) 
 	- ![[Pasted image 20241029143430.png|200]]
 
->[!note] [[Cyclosporine|Cyclosporine]]
+>[!note] [[cyclosporine|cyclosporine]]
 >- helper T cell을 억제해서 세포성 면역을 억제하는 약물.
 >- 장기이식과도 관련 높음.
 >- 건성안 치료제로 엄청 씀.
