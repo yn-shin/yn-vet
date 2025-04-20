@@ -19,4 +19,4 @@ ph:
 
 - [[남내1(A) - 04. IMHA|남내1(A) - 04. IMHA]]
 - [[Cardiology 2. PDA|Cardiology 2. PDA]]
-- [[박내2(A) - 1. Clinical neurology|박내2(A) - 1. Clinical neurology]] : brain infarction
+- [[박내2(A) - 1. Clinical neurology (DAMNIT-V)|박내2(A) - 1. Clinical neurology (DAMNIT-V)]] : brain infarction
