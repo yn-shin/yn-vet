@@ -3,6 +3,7 @@ share: "true"
 aliases:
   - gabapentine
   - 가바펜틴
+  - Gabapentin
 ph:
   - 항경련제
 ---
