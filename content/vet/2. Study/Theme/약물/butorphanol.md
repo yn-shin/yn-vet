@@ -1,12 +1,12 @@
 ---
 share: "true"
 aliases:
-  - Butophanol
+  - Butorphanol
   - 부토파놀
 ph:
   - 진정제
 ---
-
+2
 > ##### 기본 정보
 
 - 제품명 :: 
