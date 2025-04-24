@@ -13,6 +13,8 @@ share: "true"
 	- 빨리 자라는 세포 : <u>oral cavity, mucocutaneous 경계부, nailbed</u>(손톱이 자라는 뿌리 부분).
 	- Malignant melanoma라고 하면 무조건 이 셋 중 하나에 생긴 것.
 
+<br>
+
 #### Canine malignant **ORAL** melanoma
 >[!check] Melanoma의 병기 
 > - **1기** : 2cm 미만이고 림프절(LN) 전이, 원격 전이(metastasis)가 없음.
@@ -22,6 +24,7 @@ share: "true"
 - Grow rapidly (> 2cm) : 매우 빨리 자라므로 보통 2기(2cm 이상)일 때 내원
 - 빨리 자라면서 궤양이 생김(ulcerated)
 - Amelanotic한 경우처럼, 항상 흑색인 것은 아님 (variable pigmentation)
+
 
 #### Canine **MALIGNANT** melanoma (oral 포함한 전체)
 - Very aggressive
@@ -38,16 +41,17 @@ share: "true"
 - 전신 치료를 하면서도 부작용이 거의 없는 **백신**이 최근 개발됨 ❗
 
 >[!note] 백신 - Immunization with Xenogeneic Human DNA (이종 Human DNA 이용)
-> Gene for human TYROSINASE inserted into DNA plasmid
+> - Gene for human TYROSINASE inserted into DNA plasmid
 > - 이름은 백신이지만 예방이 아니라 <u>치료하는 백신</u> (=면역 유발)
 > - Encoding tyrosinase family proteins
 > 	- Melanin을 많이 분비하는 주범인, melanoma 세포 표면의 당단백질(**tyrosinase**)을 공격하도록 유도하기 위해 genogenic(이종)의 human DNA를 개에게 접종함.
 > 	- 사람과 개의 tyrosinase는 매우 비슷함. 개의 DNA를 넣으면 동종이어서 면역 형성이 안 되지만, 사람의 tyrosinase를 vector에 끼워서 주사하면 이에 대한 항체를 만들어내는데, 매우 비슷해서 개의 tyrosinase도 같이 공격됨. 
 > - 높은 수준으로 과발현된 tyrosinase만 공격하지만, 낮은 확률로 백반증 생김. 
+
+
+
+>[!check] 항암제의 구분
 > 
-> - ---
-> 
-> 항암제의 구분
 > - <u>1세대 - 일반 항암제</u>. 빨리 자라는 세포를 공격. 머리카락도 공격해서 머리가 빠지고, GI 쪽 세포들도 공격해서 위염과 장염. 골수도 공격해서 면역 저하, 빈혈.
 >- <u>2세대 - 표적 항암 치료제</u>. tyrosine-kinase inhibitor이라는 signal을 타겟으로 함. 정상세포에 영향 거의 없음.
 >- <u>3세대 - 면역 항암 치료</u>. 나이가 들면서 암세포를 없앨 만큼 면역이 일하지 못함. 종양을 인지하지 못하게 하는 signal을 없애주면, 다시 자기 면역력으로 암세포를 치료할 수 있음. 
