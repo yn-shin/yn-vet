@@ -23,3 +23,4 @@ ph:
 	- 부작용으로는 위불쾌감, 드물게 간독성, 광독성, 전정기관 문제^[주로 minocycline 이 endolymph에 축적되어 발생] 등이 있다.
 - [[연내1(A) - 15. 비강의 질환|연내1(A) - 15. 비강의 질환]], [[연내1(B) - 21. 기관과 기관지 질환|연내1(B) - 21. 기관과 기관지 질환]] : *Chlamydophila*와 *Mycoplasma*에 우선 사용. 고양이에서 흔히 발생하는 만성 비염에 대해 광범위 항생제로 사용.
 - [[남내1(B) - 09. Polyarthritis (IMPA)|남내1(B) - 09. Polyarthritis (IMPA)]] : 치료 시 1선으로 PDS or NSAIDs에다 doxycycline 함께 처방.
+- [[김내2(A) - 1.7 Acquired Esophageal Weakness|김내2(A) - 1.7 Acquired Esophageal Weakness]] : 식도에 흡착하여 식도염을 유발하는 것이 대표적인 부작용. 반드시 앞뒤로 물을 먹인다!! 보호자 안내 중요!
