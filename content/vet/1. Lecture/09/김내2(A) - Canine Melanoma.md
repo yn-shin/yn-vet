@@ -73,7 +73,7 @@ share: "true"
 >---
 >- **Dosing** : 2주 단위로 4번 Induction → 6개월에 1번 Boosting
 >
->![[Pasted image 20250424222345.png|400]]
+>![[Pasted image 20250424222345.png|400]]<br>
 >     <font color="#7f7f7f">비용 : Induction은 300만원 정도 (+ boosting : 회당 70)</font>
 >
 >- **치료 효과** : 생존률이 유의미하게 증가 (치료한 개의 75%에서 15개월 이상 생존)
