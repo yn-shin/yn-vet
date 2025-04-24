@@ -1,6 +1,7 @@
 ---
 share: "true"
-aliases: 
+aliases:
+  - Cisapride
 ph:
   - Prokinetics
 ---
