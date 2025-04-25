@@ -66,8 +66,8 @@ share: "true"
 - [[butorphanol|butorphanol]]
 - Mu-antagonist이자 Kappa-agonist → 부분적으로 작용하여 약간의 항구토 효과
 
-
+%%
 ---
 
 (🔗약리 - [[⭐Ch.40 위장관약물 및 항구토제 (Gastrointestinal & Antimetic drugs)#B. 항구토제|⭐Ch.40 위장관약물 및 항구토제 (Gastrointestinal & Antimetic drugs) > B. 항구토제]])
-![[Pasted image 20250411221348.png|1300]]
+![[Pasted image 20250411221348.png|1300]]%%
