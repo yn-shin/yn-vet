@@ -1,4 +1,5 @@
 ---
+share: "true"
 과목:
   - 실험동물의학2
 Class: Virus
@@ -8,7 +9,6 @@ host: M, R
 특징: 한/일/중에서 HFRS, 미국/캐나다에서 HPS
 증상: 설치류에서 임상증상 X
 순서: 1
-share: "true"
 Zoonoses: Zoonoses
 모체: 격리 후 안락사
 실험동물: 격리 후 안락사
