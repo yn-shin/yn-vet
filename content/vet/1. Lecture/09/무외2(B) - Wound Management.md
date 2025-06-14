@@ -4,37 +4,25 @@ share: "true"
 
 ## Module 1 : Introduction & Basic Principles
 
-A. Fundamentals of Wound Management Wound management involves a series of steps to 
-promote healing and prevent complications. Key fundamentals include: 
-- Temporarily covering the wound to prevent further trauma and contamination. 
-- Assessing the traumatized animal and stabilizing its condition. 
-- Clipping and aseptically preparing the area around the wound. 
-- Culturing the wound. 
-- Debriding dead tissue and removing foreign debris. 
-- Lavaging the wound thoroughly. 
-- Providing wound drainage. 
-- Promoting healing by stabilizing and protecting the cleaned wound. 
-- Performing appropriate wound closure.
 
 
-A. 상처 관리의 기본 원칙 : 상처 관리는 치유를 촉진하고 합병증을 예방하기 위한 일련의 단계로 구성됩니다. 주요 원칙은 다음과 같습니다:
+| Fundamentals of Wound Management          |
+| ----------------------------------------- |
+| ![[Pasted image 20250614214738.png\|550]] |
 
-- 상처를 임시로 덮어 추가 손상과 오염을 방지
-- 손상된 동물 평가 및 상태 안정화
-- 상처 주변 부위 털 깎기 및 무균 준비
-- 상처 배양
-- 죽은 조직 및 이물질 제거(변연절제)
-- 상처 세척
-- 상처 배액 제공
-- 깨끗한 상처를 안정화 및 보호하여 치유 촉진
-- 적절한 상처 봉합 수행
+- 상처 관리의 기본 원칙
+	- 상처를 임시로 덮어(temporarily covering) 추가 손상과 오염을 방지
+	- 상처 주변 부위 clipping 및 무균 준비
+	- 죽은 조직 및 이물질 제거(변연절제)
+	- 상처 세척(lavaging), 배액(drainage)
+	- 적절한 상처 봉합
+
+| Surgical Anatomy Relevant to wound healing                                             |
+| -------------------------------------------------------------------------------------- |
+| ![[Pasted image 20250614140955.png\|600]]<br>![[Pasted image 20250614141040.png\|600]] |
 
 
-B. 상처 치유와 관련된 외과 해부학 피부 구조와 혈액 공급에 대한 이해는 효과적인 상처 관리와 외과 계획에 필수적입니다. 피부는 표피, 진피, 피하조직(피하층) 3개 층으로 구성됩니다. 표피는 얇고 보호 기능을 하며 혈관이 없습니다. 진피는 표피 아래에 위치하며 두껍고 혈관이 풍부합니다. 피하조직은 진피 아래에 위치하며, 개와 고양이는 인간과 달리 근육피부혈관이 없고, 피부에 직접적으로 혈관이 공급됩니다.
-
-| Surgical Anatomy Relevant to wound healing                                             |                                           |
-| -------------------------------------------------------------------------------------- | ----------------------------------------- |
-| ![[Pasted image 20250614140955.png\|600]]<br>![[Pasted image 20250614141040.png\|600]] | ![[Pasted image 20250614140939.png\|400]] |
+![[Pasted image 20250614140939.png|400]]
 
 - Epidermis : 혈관이 없음. 얇음. 보호 기능을 하는 맨 바깥 층.
 - Dermis : 표피 아래, 두껍고 혈관이 풍부. 표피에 영양 공급. 
@@ -44,7 +32,7 @@ B. 상처 치유와 관련된 외과 해부학 피부 구조와 혈액 공급에
 	- 대신 **Direct cutaneous vessel**을 통해 피부에 직접적으로 혈관 공급됨. 
 	- subdermal, cutaneous, subpapillary plexus
 - **Subdermal plexus** : 피부 생존에 중요. panniculus muscle (e.g. cutaneous trunci muscle)의 깊은층과 얕은층에 모두 존재 → 근육 아래로 박리해야 함.
----
+
 
 | Wound Healing Process : Repair phase                                                   |
 | -------------------------------------------------------------------------------------- |
@@ -56,11 +44,13 @@ B. 상처 치유와 관련된 외과 해부학 피부 구조와 혈액 공급에
 2) **Epithelialization** (상피화) : 상피세포의 이동(mobilization & migration), 증식(proliferation), 분화(differentiation)
 	- sutured wounds : 거의 즉시(24-48시간 내) 시작됨.
 	- open wounds : granulation bed가 충분히 형성되면(4-5일 후) 시작됨.
-	- 
+	- 딱지(건조된 혈전 or 삼출물) 아래로 migration → collagenase 생성 → 상처 표면이 덮이면 contact inhibtion으로 이동 멈춤
+	- 새로 형성된 상피는 시간이 지나면서 두꺼워짐.
 	- 에너지와 산소에 의존, 무산소 상태에서는 일어나지 않음. 습윤한 환경이 상피화를 촉진함.
+3) **Wound contraction** (상처 수축) 
 %%
 
-상피화는 상피세포의 이동, 증식, 분화, 그리고 특이화 과정을 포함합니다. 봉합된 상처에서는 상피화가 거의 즉시(24-48시간 내) 시작됩니다. 개방된 상처에서는 충분한 육아조직이 형성된 후(보통 4-5일 후) 시작됩니다. 표피세포의 이동은 상처 가장자리와 모낭과 같은 부속기관에서 시작됩니다. 이동하는 세포들은 딱지(건조된 혈전 또는 삼출물) 아래로 이동하며, 이 과정에서 콜라게나아제(collagenase)를 생성합니다. 상처 표면이 덮이면 접촉 억제(contact inhibition)로 인해 이동이 멈춥니다. 새로 형성된 상피는 처음에는 얇고 약하지만 시간이 지나면서 두꺼워집니다. 상피세포의 이동은 에너지에 의존하며 산소 농도와 관련이 있습니다. 무산소(anoxia, 산소 공급의 완전한 결여) 상태에서는 상피화가 일어나지 않으며, 고압 산소 치료(hyperbaric oxygen therapy)는 상피화와 치유를 촉진할 수 있습니다. 습윤 환경은 상피화를 가속화합니다.
+
 
 상처 수축은 섬유아세포가 콜라겐을 재배열하고, 상처 가장자리의 근섬유아세포(myofibroblast)가 수축함으로써 상처 크기를 줄이는 과정입니다. 이 과정은 육아조직 형성과 상피화와 동시에 일어나지만, 상피화와는 독립적으로 진행됩니다. 수축은 전층 피부의 가장자리를 안쪽으로 당겨 상처를 5-9일 이내에 눈에 띄게 작게 만듭니다. 수축은 상처 가장자리가 만날 때, 긴장이 너무 크거나 근섬유아세포가 부족할 때 멈춥니다. 주변 피부가 고정되어 있거나 탄성이 없거나 긴장되어 있으면 수축이 제한됩니다. 항염증 스테로이드제나 평활근 이완제는 수축을 억제할 수 있습니다.
 
