@@ -1,10 +1,16 @@
 ---
 share: "true"
+BOX: 
+학기:
+  - "09"
+과목:
+  - 외과학2
+팀티칭: 무외
+차시: 
+진행률: 
 ---
 
 ## Module 1 : Introduction & Basic Principles
-
-
 
 | Fundamentals of Wound Management          |
 | ----------------------------------------- |
@@ -21,7 +27,6 @@ share: "true"
 | -------------------------------------------------------------------------------------- |
 | ![[Pasted image 20250614140955.png\|600]]<br>![[Pasted image 20250614141040.png\|600]] |
 
-
 ![[Pasted image 20250614140939.png|400]]
 
 - Epidermis : 혈관이 없음. 얇음. 보호 기능을 하는 맨 바깥 층.
@@ -32,7 +37,6 @@ share: "true"
 	- 대신 **Direct cutaneous vessel**을 통해 피부에 직접적으로 혈관 공급됨. 
 	- subdermal, cutaneous, subpapillary plexus
 - **Subdermal plexus** : 피부 생존에 중요. panniculus muscle (e.g. cutaneous trunci muscle)의 깊은층과 얕은층에 모두 존재 → 근육 아래로 박리해야 함.
-
 
 | Wound Healing Process : Repair phase                                                   |
 | -------------------------------------------------------------------------------------- |
