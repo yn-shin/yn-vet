@@ -1,6 +1,6 @@
 ---
 share: "true"
-aliases: 
+aliases:
 ph:
   - 항염증제
 ---
