@@ -1,6 +1,6 @@
 ---
 share: "true"
-aliases: 
+aliases:
 ph:
   - 위산 억제제
 ---
