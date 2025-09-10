@@ -1,6 +1,6 @@
 ---
 share: "true"
-aliases: 
+aliases:
 ph:
   - 콜린성 작용제
 ---
