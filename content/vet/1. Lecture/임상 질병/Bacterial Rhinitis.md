@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 세균성 비염
-Abbr: 
+Abbr:
 한글명: 세균성 비염
 tags:
   - 내과
