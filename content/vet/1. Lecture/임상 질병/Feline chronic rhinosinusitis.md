@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 만성 비강부비동염
-Abbr: 
+Abbr:
 한글명: 고양이 만성 비강부비동염
 tags:
   - 내과
