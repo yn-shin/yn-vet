@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 설파살라진
   - Sulfasalazine
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
