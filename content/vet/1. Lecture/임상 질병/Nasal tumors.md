@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 비강 종양
-Abbr: 
+Abbr:
 한글명: 비강 종양
 tags:
   - 내과
