@@ -1,12 +1,12 @@
 ---
 share: "true"
-aliases: 
+aliases:
 Abbr: SRMA
 한글명: 스테로이드 반응성 수막염-동맥염
-tags: 
-과목: 
-범위: 
-num: 
+tags:
+과목:
+범위:
+num:
 ---
 
 > 기본 정보
