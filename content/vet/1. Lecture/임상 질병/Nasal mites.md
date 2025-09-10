@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 비강 기생충
-Abbr: 
+Abbr:
 한글명: 비강 기생충
 tags:
   - 내과
