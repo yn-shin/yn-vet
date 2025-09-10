@@ -1,6 +1,6 @@
 ---
 share: "true"
-aliases: 
+aliases:
 ph:
   - 구토제
 ---
