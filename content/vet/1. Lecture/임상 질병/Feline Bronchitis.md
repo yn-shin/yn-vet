@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 고양이 기관지염
   - feline bronchitis
-Abbr: 
+Abbr:
 한글명: 고양이 특발성 기관지염
 tags:
   - 내과
