@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 로무스틴
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
