@@ -1,9 +1,9 @@
 ---
 share: "true"
-aliases: 
-Abbr: 
+aliases:
+Abbr:
 한글명: 급성 장염
-tags: 
+tags:
 과목:
   - "[[09. 김내2 (소화)|09. 김내2 (소화)]]"
 범위: 소화기
