@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 저작근 근염
   - Masticatory Myositis
-Abbr: 
+Abbr:
 한글명: 저작근 근염
 tags:
   - 내과
