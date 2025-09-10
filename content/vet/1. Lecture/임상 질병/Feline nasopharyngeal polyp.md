@@ -1,7 +1,7 @@
 ---
 share: "true"
-aliases: 
-Abbr: 
+aliases:
+Abbr:
 한글명: 고양이 비인두 종괴
 tags:
   - 내과
