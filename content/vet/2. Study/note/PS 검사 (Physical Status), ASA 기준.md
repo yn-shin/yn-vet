@@ -6,8 +6,8 @@ BOX:
   - "08"
 과목:
   - 외과학1
-차시: 
-진행률: 
+차시:
+진행률:
 ---
 
 ASA 기준(American Society of Anesthesiologists)
