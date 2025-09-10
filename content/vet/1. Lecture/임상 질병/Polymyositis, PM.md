@@ -1,7 +1,7 @@
 ---
 share: "true"
-aliases: 
-Abbr: 
+aliases:
+Abbr:
 한글명: 다발성 근염
 tags:
   - 내과
