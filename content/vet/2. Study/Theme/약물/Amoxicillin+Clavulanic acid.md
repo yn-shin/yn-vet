@@ -4,7 +4,7 @@ aliases:
   - 아모크라
   - amoxicillin
   - Amoxicillin
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
