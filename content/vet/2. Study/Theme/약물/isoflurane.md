@@ -5,7 +5,7 @@ aliases:
   - isofluran
   - Isofluran
   - 이소플루란
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
