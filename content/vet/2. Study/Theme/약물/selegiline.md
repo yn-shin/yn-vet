@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - Selegiline
   - 셀레질린
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
