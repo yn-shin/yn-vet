@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 후두마비
   - laryngeal paralysis
-Abbr: 
+Abbr:
 한글명: 후두 마비
 tags:
   - 내과
