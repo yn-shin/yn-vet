@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - 항문주위누공
   - Perianal Fistula
-Abbr: 
+Abbr:
 한글명: 항문주위누공
 tags:
   - 내과
