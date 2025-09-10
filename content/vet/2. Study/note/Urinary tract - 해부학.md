@@ -2,7 +2,7 @@
 share: "true"
 BOX:
   - 카드
-학기: 
+학기:
 과목:
   - 해부학2
 tags:
