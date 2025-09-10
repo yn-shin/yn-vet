@@ -1,7 +1,7 @@
 ---
 share: "true"
 Abbr: PRCA
-한글명: 
+한글명:
 aliases:
   - PRCA
   - Pure red cell aplasia
