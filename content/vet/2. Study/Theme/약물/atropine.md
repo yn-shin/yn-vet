@@ -3,7 +3,7 @@ share: "true"
 aliases:
   - Atropine
   - 아트로핀
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
