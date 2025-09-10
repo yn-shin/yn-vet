@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 알러지성 비염
-Abbr: 
+Abbr:
 한글명: 알러지성 비염
 tags:
   - 내과
