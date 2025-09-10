@@ -6,9 +6,9 @@ BOX:
   - "08"
 과목:
   - 내과학1
-팀티칭: 
-차시: 
-진행률: 
+팀티칭:
+차시:
+진행률:
 share_link: https://share.note.sx/i54mbxhh#5ZkPdVzGNO2kqMul3dO7czbvmGi9jAl85EAeU6Ze17Q
 share_updated: 2024-10-22T21:43:38+09:00
 ---
