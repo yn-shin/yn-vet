@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - 진균증
-Abbr: 
+Abbr:
 한글명: 코 진균증
 tags:
   - 내과
