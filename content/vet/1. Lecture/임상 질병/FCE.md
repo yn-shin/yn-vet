@@ -8,10 +8,10 @@ aliases:
   - Fibrocartilaginous
 Abbr: FCE
 한글명: 섬유연골 색전증
-tags: 
-과목: 
-범위: 
-num: 
+tags:
+과목:
+범위:
+num:
 ---
 
 > 기본 정보
