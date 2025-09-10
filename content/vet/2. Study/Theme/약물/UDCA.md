@@ -1,7 +1,7 @@
 ---
 share: "true"
-aliases: 
-ph: 
+aliases:
+ph:
 ---
 
 > ##### 기본 정보
