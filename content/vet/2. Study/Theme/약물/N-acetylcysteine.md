@@ -2,7 +2,7 @@
 share: "true"
 aliases:
   - acetylcysteine
-ph: 
+ph:
 ---
 
 > ##### 기본 정보
