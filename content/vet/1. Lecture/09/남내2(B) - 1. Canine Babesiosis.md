@@ -1,6 +1,6 @@
 ---
 share: "true"
-BOX: 
+BOX:
 학기:
   - "09"
 과목:

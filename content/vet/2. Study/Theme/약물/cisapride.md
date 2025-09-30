@@ -46,7 +46,7 @@ Serotonin 4 receptor agonist로 대표적으로 [[mosapride|mosapride]]와 cisap
 >[!info] Mosapride, Cisapride (Serotonin 4 receptor)
 >**Mosapride** : <u>selective</u> 5-HT4 receptor agonist
 >- 식도의 운동성을 촉진 (Prokinetics)
->- 위장관 운동의 효과에 대해 in vivo/vitro study  했더니⇒ mosaspride > cisapride, 0.3-3mg/kg IV 투여했더니 식도의 운동성이 상당히 촉진
+>- 위장관 운동의 효과에 대해 in vivo/vitro study  했더니⇒ mosapride > cisapride, 0.3-3mg/kg IV 투여했더니 식도의 운동성이 상당히 촉진
 >- Affinity : metocloprimide보다 2-12배 높다.
 >- Lower보다 Upper GI tract에 훨씬 친화도가 높다, (⇒ lower GI tract에는 metocloprimide)
 >- 부작용 : 사람에서는 두통(headache) 알려져 있다 (Headache 즉 Migraine(편두통)이라고 하심; 편측으로 나타나는 박동성 구통)
