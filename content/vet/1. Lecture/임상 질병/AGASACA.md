@@ -45,4 +45,4 @@ sublumbar lymph node로 잘 전이되니 꼭 촉진해봐야 한다.
 > 관련 수업 내용
 
 - **T cell type LL**(lymphoblastic lymphoma)도 유사하게 PTH-rP를 분비하여 hypercalcemia를 유발함. ( [[김내2(A) - 3.10 Alimentary lymphoma (소화기 림프종)|김내2(A) - 3.10 Alimentary lymphoma (소화기 림프종)]])
-- 이수형 교수님의 병리 수업에서 종양의 systemic effect(paraneoplastic sydrome)을 설명하던 중, 전신적으로 hypercalcemia를 일으킬 수 있는 중요한 종양이라 강조하여 설명하신 바 있음. ([[(2025) 병리1(A) - 4. Neoplasia & Tumor Biology#5. Systemic Effect of Cancers on the Host|(2025) 병리1(A) - 4. Neoplasia & Tumor Biology > 5. Systemic Effect of Cancers on the Host]])
+- 이수형 교수님의 병리 수업에서 종양의 systemic effect(paraneoplastic sydrome)을 설명하던 중, 전신적으로 hypercalcemia를 일으킬 수 있는 중요한 종양이라 강조하여 설명하신 바 있음. ([[(2025) 병리1(A) - 4.1 Neoplasia#5. Systemic Effect of Cancers on the Host|(2025) 병리1(A) - 4.1 Neoplasia > 5. Systemic Effect of Cancers on the Host]])
