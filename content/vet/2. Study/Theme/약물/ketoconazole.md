@@ -1,7 +1,8 @@
 ---
 share: "true"
-aliases: 
-ph: 
+aliases:
+ph:
+  - 항진균제
 ---
 
 > ##### 기본 정보
