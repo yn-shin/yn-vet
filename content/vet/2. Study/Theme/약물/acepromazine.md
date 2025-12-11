@@ -3,6 +3,7 @@ share: "true"
 aliases:
   - Acepromazine
   - 아세프로마진
+  - 에이스프로마진
 ph:
   - 진정제
 ---
