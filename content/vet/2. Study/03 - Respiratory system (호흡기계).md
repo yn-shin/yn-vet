@@ -6,6 +6,7 @@ system: respiratory
 
 >[!info] ⬅️ [[통합 지도|통합 지도]]
 
+%%
 구조 / 미세 / 기능 
 
 >[!check]- [시스템: 호흡기]
@@ -141,34 +142,40 @@ system: respiratory
 > ## 🎯 한 줄 정리
 > 
 > 👉 폐포 염증/손상 → 가스교환 ↓ → 저산소 → 호흡곤란
+%%
 
-# 3.1 구조
+
+# 3.1 호흡계의 구성과 구조
 
 호흡계는 다음과 같이 구성된다.
 
-- 비강 → 인두 → 후두 → 기관 → 기관지 → 세기관지 → 폐포
 
-|상기도 (상부 호흡기)|하기도 (하부 호흡기)|
-|---|---|
-|코(nostril) / 비강(nasal cavity) / 비인두(nasopharynx) / 후두(larynx)|기관(trachea) / 기관지(bronchi) / 폐(lung) & 폐포(alveolus)|
+| Respiratory system |                                                               |
+| ------------------ | ------------------------------------------------------------- |
+| **상기도 (상부 호흡기)**       | 코(nostril) / 비강(nasal cavity) / 비인두(nasopharynx) / 후두(larynx) |
+| **하기도 (하부 호흡기)**       | 기관(trachea) / 기관지(bronchi) / 폐(lung) & 폐포(alveolus)           |
+
+
 
 여기서 기능에 따라 3개 영역으로 구분한다.
 
 - Conductive system : 코부터 기관지까지
 - Transitional system : 세기관지
-- Exchange system : 폐포  
-    각 영역에서 역할이 다르고, 따라서 세포 구성(lining cell)도 다르니 중요하게 알아놓도록 하자.
+- Exchange system : 폐 & 폐포  
 
-|      | Conductive System                                                       | Transitional System | Exchange System         |
-| ---- | ----------------------------------------------------------------------- | ------------------- | ----------------------- |
-| 구성   | - nasal cavity, paranasal sinus, pharynx,  <br>larynx, trachea, bronchi | bronchioles         | alveolar ducts, alveoli |
-| 역할   | 공기 정화/가습                                                                | 공기 전달               | 가스 교환                   |
-| 상피세포 | pseudostratified **ciliated** columnar                                  |                     |                         |
-| 특징   |                                                                         |                     |                         |
+각 영역에서 역할이 다르고, 따라서 세포 구성(lining cell)도 다르니 중요하게 알아놓도록 하자.
+
+|      | Conductive System                                                | Transitional System | Exchange System         |
+| ---- | ---------------------------------------------------------------- | ------------------- | ----------------------- |
+| 구성   | nasal cavity, paranasal sinus, pharynx, larynx, trachea, bronchi | bronchioles         | alveolar ducts, alveoli |
+| 역할   | 공기 정화/가습                                                         | 공기 전달               | 가스 교환                   |
+| 상피세포 | pseudostratified **ciliated** columnar                           |                     |                         |
+| 특징   |                                                                  |                     |                         |
 
 더욱 자세한 호흡기계의 해부학적 구조는 ➡️ [[03.1 - 호흡기계의 세부 구조|03.1 - 호흡기계의 세부 구조]]
 
-# 3.2 조직
+# 3.2 호흡계의 세포/조직학적 특징
+
 
 | 구분                      | 구성/특징                                                                                                             |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -179,7 +186,7 @@ system: respiratory
 | **Gas exchange system** | alveoli                                                                                                           |
 | Key cells               | - Type Ⅰ pneumocyte : 가느다란 세포 (죽으면 2로 대체됨)<br>- Type Ⅱ pneumocyte : 둥근 세포, surfactant 분비<br>- Alveolar macrophage |
 
-# 3.3 기능
+# 3.3 호흡계의 생리와 기능
 
 - 환기
 - 가스 교환
@@ -188,7 +195,7 @@ system: respiratory
 - 산-염기 평형
 - 점액섬모 청소 기전
 
-# 3.4 병리적 변화
+# 3.4 호흡계의 병리적 변화
 
 - 세포에 대한 손상
 - 방어 기전: 폐포 대식세포, 점막 면역
@@ -254,6 +261,7 @@ bronchopneumonia / interstitial pneumonia / embolic pneumonia / granulomatous pn
 - [[연내1(B) - 20. 하부 호흡기의 진단적 검사 (2)|연내1(B) - 20. 하부 호흡기의 진단적 검사 (2)]] : Tracheal wash, BAL, ABGA (P/F ratio, A-a gradient)
 - [[연내1(B) - 23. 흉강과 종격동의 진단적 검사|연내1(B) - 23. 흉강과 종격동의 진단적 검사]] : Fluid cytology, Radiography
 
+%%
 >[!check]-
 >와… 이건 이미 “정리” 수준이 아니라 **거의 교재 뼈대**다 👍
 지금 상태에서 필요한 건 추가가 아니라 👉 **정렬 + 연결 강화 + 임상 연결 포인트 보강**이야.
@@ -552,7 +560,7 @@ bronchopneumonia / interstitial pneumonia / embolic pneumonia / granulomatous pn
 > 
 > 지금 방향 진짜 잘 잡았다 👍
 
-
+%%
 %%
 
 
