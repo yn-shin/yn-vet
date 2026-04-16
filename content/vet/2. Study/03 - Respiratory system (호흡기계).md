@@ -3,6 +3,11 @@ share: "true"
 type: system
 system: respiratory
 ---
+- [ ] #병리 병리내용 잘 반영해두기 #P1
+- [ ] #기초복습 해부 정리하던 거 잘 정렬해서 내용 넣기 (마무리) #P1
+- [ ] #임상정리 호흡계 질환 목록 정리 (연내) 
+- [ ] #임상정리 윤외2 호흡계 수술 목록 정리
+
 
 >[!info] ⬅️ [[통합 지도|통합 지도]]
 
@@ -145,7 +150,7 @@ system: respiratory
 %%
 
 
-# 3.1 호흡계의 구성과 구조
+# 3.1 호흡계의 구성 및 구조
 
 호흡계는 다음과 같이 구성된다.
 
@@ -205,7 +210,7 @@ system: respiratory
 
 ---
 
-## 3.4.1 Bronchiectasis & Atelectasis / Emphysema
+#### 3.4.1 Bronchiectasis & Atelectasis / Emphysema
 
 지속적인 손상이 가해지면 만성 염증 → goblet cell hyperplasia(증식) / metaplasia (다른 세포가 goblet cell로 바뀜)  
 ⇒ 정상보다 goblet cell이 많아진다 (비율이 깨짐)  
@@ -218,9 +223,9 @@ bronchiole이 막혀 공기가 갇히면 폐기종.
 
 지속적 손상으로 만성 염증이 발생하면
 
-## 3.4.2 Fibrosis & Bronchiolitis Obliterans
+#### 3.4.2 Fibrosis & Bronchiolitis Obliterans
 
-## 3.4.3 Pneumonia
+#### 3.4.3 Pneumonia
 
 bronchopneumonia / interstitial pneumonia / embolic pneumonia / granulomatous pneumonia / aspiration pneumonia / suppurative bronchopneumonia
 
@@ -255,6 +260,7 @@ bronchopneumonia / interstitial pneumonia / embolic pneumonia / granulomatous pn
 
 # 참고 자료
 
+- [[(2026) 병리2(A) - 1.1 Respiratory 정리|(2026) 병리2(A) - 1.1 Respiratory 정리]]
 - [[응급(B) - 6. 호흡기 환자의 응급 처지|응급(B) - 6. 호흡기 환자의 응급 처지]]
 - [[연내1(A) - 17. 후두와 인두의 진단적 검사|연내1(A) - 17. 후두와 인두의 진단적 검사]] : Radiography, Fluoroscopy/Laryngoscopy
 - [[연내1(A) - 20. 하부 호흡기의 진단적 검사|연내1(A) - 20. 하부 호흡기의 진단적 검사]] : 흉강 청진, Radiography 해석 (정리필요)
