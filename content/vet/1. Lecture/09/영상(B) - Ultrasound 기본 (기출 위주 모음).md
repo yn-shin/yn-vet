@@ -1,6 +1,6 @@
 ---
 share: "true"
-BOX: 
+BOX:
 학기:
   - "09"
 과목:
@@ -457,6 +457,15 @@ Cranioventral region에 결석 관찰되기도 함
 # 9. Male Reproductive System
 
 ##### CEH-pyometro complex에 대해
+
+CEH(Cystic endometrial hyperplasia): 자궁 내막이 두꺼워지고, cystic gland와 glandular duct의 anechoic한 낭종성 변화를 동반하는 자궁 질병
+Pyometra: 자궁 내강에 Fluid가 찼는데, 그게 more echogenic한 fluid일 때 
+<영상학적 소견>
+Endometrial thickening(progesterone에 의한 자극)
+Anechoic dilated cystic/glandular gland
+Uterine lumen에 fluid 축적 (pyometra, mucometra, hydrometra)
+(이 중에서 pyometra는 제일 echogenic한 fluid)
+
 
 ##### 전립선에서 나타나는 주요 질병의 영상학적 소견에 대해 (방사선 + 초음파)
 

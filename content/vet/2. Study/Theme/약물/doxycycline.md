@@ -4,6 +4,8 @@ aliases:
   - Doxycycline
 ph:
   - 항생제
+effect:
+side-effect: 식도염(식도흡착)
 ---
 
 > ##### 기본 정보

@@ -15,6 +15,8 @@ tags:
 범위: 호흡기
 num: "1"
 Feline: "[[FURD]]"
+세부: 상부
+system: respiratory
 ---
 
 > 기본 정보

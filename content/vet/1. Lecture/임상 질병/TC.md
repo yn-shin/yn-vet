@@ -17,6 +17,7 @@ tags:
   - "[[08. 연내1 (호흡)|08. 연내1 (호흡)]]"
   - "[[08. 방사선학|08. 방사선학]]"
 범위: 호흡기
+세부: 하부
 ---
 
 >기본 정보
@@ -36,7 +37,7 @@ tags:
 - 염증 반응 시 분비되는 **collagnases** → airway의 구조를 약화시켜 TC에 기여.
 - 기관 상피 손상 → airway clearance를 저해 → 기침이 쉽게 발생하며 악화됨.
 
-#### 임상 증상
+#### Clinical Signs
 
 - 중년령, 소형종에서 가장 흔하게 나타남.
 - 대부분 초기 증상은 건성 기침(nonproductive cough, dry cough) → "goose honk" 소리를 냄.
@@ -54,10 +55,10 @@ tags:
 	- 식도가 기관을 누르거나, 식도가 겹쳐 가려질 수 있으니 판독 시 주의.
 - **Fluoroscopic** evaluation : 움직이는 영상으로 관찰 가능.
 - **Bronchoscopy** : gold standard지만.. 위험도가 높아 사실 사용하지 않음. (마취해야 하고, 멸균, 상처..)
-
+![[Pasted image 20260412235922.png|300]]
 #### Treatment
 
-- 체중 감소 !! 살 뺴자.
+- 체중 감소 !! 살 빼자.
 - 하네스 사용 x, 흥분하지 않도록.
 - Sedatives - **Phenobarbital** : 필요하면 단기적인 진정제를 추가로 씀. (스트레스성 이벤트 전 미리)
 - Antixiolytics - **Trazadone** : 좀 더 장기적으로 쓸 수 있는 안전한 약물.
@@ -72,8 +73,7 @@ tags:
 	- 적용할 때 주의가 필요 (TC 때문에 이미 청색증이 심한 경우 등에는 dramatic한 효과가 있지만, 애매한 기침에는 큰 효과X)
 
 > from 연내실습
-#### Tracheal collapse
-- Grade<br>![[Pasted image 20241104152410.png|300]]
+
 
 #### Bronchial collapse
 - 만성 기침, wheezing, 간헐적 or 만성 호흡곤란 유발.
