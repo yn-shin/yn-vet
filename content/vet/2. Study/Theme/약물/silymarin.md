@@ -5,6 +5,8 @@ aliases:
   - 실리마린
 ph:
   - 간보호제
+effect:
+side-effect:
 ---
 
 > ##### 기본 정보
