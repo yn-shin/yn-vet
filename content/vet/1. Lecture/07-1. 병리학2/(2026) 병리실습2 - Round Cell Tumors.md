@@ -16,7 +16,7 @@ share: "true"
 - 다들 동글동글하게 생겨서 구분이 어렵다.
 
 
-![[Figure. 면역세포의 종류 (Morphological features of Immune cells).png|Figure. 면역세포의 종류 (Morphological features of Immune cells).png]]<br><sup><b>Morphological features of Immune cells(필기 from 병리1).</b></sup>
+![[Figure. 면역세포의 종류 (Morphological features of Immune cells).png|900]]<br><sup><b>Morphological features of Immune cells(필기 from 병리1).</b></sup>
 
 - -phil로 끝나는 면역세포들은 종양세포가 되지 않는다. (Neutrophil, Basophil, Eosinophil)
 	- 분절화된 핵을 가진다. (분절화된 정도 ⇒ 세포의 단계 구분에 도움)
@@ -24,7 +24,7 @@ share: "true"
 	- 우리가 생각하는 덩어리진 종양을 형성하는 세포들은 아니다!
 - 나머지는 다 종양이 될 수 있다. (Mast cell, Lymphocytes, Plasma cell, Macrophage, ..)
 
-![[Figure. 면역세포 종류별 세포학적&조직학적 특징.png|Figure. 면역세포 종류별 세포학적&조직학적 특징.png]]<br><sup><b>Morphological features of Immune cells(필기 from 병리1).</b></sup>
+![[Figure. 면역세포 종류별 세포학적&조직학적 특징.png|700]]<br><sup><b>Morphological features of Immune cells(필기 from 병리1).</b></sup>
 
 -phils 들은 종양이 되지 않고, 나머지 세포들 구분하기!
 - Plasma cells : 치우친 핵 + 핵 옆에 밝게 빛나는 부분 + 핵의 과염색성(매우 진함)
@@ -197,3 +197,32 @@ Tumor diameter > 1.5cm 이면 악성 behavior를 보일 확률이 높다.
 	- Pyknosis/karyorrhexis
 	- Neoplastic emboli
 	- Lymphoid aggregates
+
+---
+
+16, 19의 진단명은 같다
+
+비장
+histiocytoma는 배제
+
+- lymphoma
+- mast cell tumor
+
+---
+
+- 림프절 확인 : capsulation, 주변의 지방조직 (위치상 림프절이었어도 틀릴 수 있음)
+	- Lymphoid follicle, 중심부의 germinal center, 피질과 수질
+	- 이 사진은 정상 구조를 전혀 관찰할 수 없고 무언가로 꽉 차있음.
+	- 결합조직으로만 둘러싸여야 하는데, 안쪽의 종양세포와 같은 종류의 어떤 세포가 결합조직 사이에 있음: 종양세포가 결합조직에 침습함.
+
+
+16, 19
+- 비장에서 lymphoma가 많이 생긴다.
+- white pulp 의 종양성 병변 → red pulp 위축 → 회백색으로 보임 (Red pup 유래 종양 병변이면 좀 더 붉은색)
+- 조혈작용이 활발한 장기여서 출혈, 파열이 잘 생길 수 있다. 
+- 세포관찰 : round cell 종류 구분하려면, 일단 확실한 방법은 CD3, CD20 등 면역염색. 형태학적으로 구분이 정확하진 않지만, 배제하면서 가야 함
+	- plasmacytoma → 비장에 안 생김. 비장에 생기면 multiple myeloma. 형태학적으로도 편측성의 핵이나, 염색성이 진한 세포질이나 핵 아님.
+	- Mast cell → 아주 배제할 순 없음. 감별진단 들어갈 수도 있지만, 과립 양상을 띠지 않고, MCT라 하기엔 세포질의 양이 적다.
+	- Histiocyte → 배제 가능.
+	- Round cell 형태만 보고 lymphoma라고 구분하는 것까지는 바라지 않는다..
+- Stage는 높은 편에 속함.
