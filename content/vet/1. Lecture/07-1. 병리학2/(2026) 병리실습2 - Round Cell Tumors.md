@@ -18,6 +18,7 @@ share: "true"
 
 ![[Figure. 면역세포의 종류 (Morphological features of Immune cells).png|900]]<br><sup><b>Morphological features of Immune cells(필기 from 병리1).</b></sup>
 
+- Macrophage 계열 : 세포 크기가 크고 가장자리가 지저분하다. 공포들이 존재한다. 핵도 크고 모양도 다양하다.
 - -phil로 끝나는 면역세포들은 종양세포가 되지 않는다. (Neutrophil, Basophil, Eosinophil)
 	- 분절화된 핵을 가진다. (분절화된 정도 ⇒ 세포의 단계 구분에 도움)
 	- 이런 세포가 많으면 염증성 질환 의심, 혹은 골수 쪽 질환 (leukemia 등)
@@ -41,11 +42,13 @@ share: "true"
 
 >[!tldr] Histology of Histiocytoma
 >- dense dermal infiltrates : **진피층에 국한**되는 경우가 많음.
->- **pleomorphism** : histiocytoma의 기본 특징. 보인다고 무조건 악성도가 높다고 X
+>- **pleomorphism** : histiocytoma의 기본 성질. 보인다고 무조건 악성도가 높다고 X
 >- minimal stroma : 진피층에 종양이 자라, 진피층에 있어야 할 것들이 사라짐. (콜라겐이 싹 사라짐)
->- **wedge-shaped** : 확진의 중요한 기준 중 하나.
+>- **wedge-shaped** : 확진의 중요한 기준 중 하나. (안쪽으로 뾰족하게 - 안전하게 자라는 것)
 >- <u>종양세포가 표피에 붙어서 자란다</u>는 특징이 있다. (중요한 구별점 중 하나)
 
+wedge-shape → 표피에 붙어서 자람 → 그 뒤에 고배율에서 세포 특징까지 확인
+*상피처럼 뭉쳐있는 묶인 느낌이 없음. 상피랑 헷갈리는 건 아님.
 ![[Pasted image 20260504015126.jpg|1000]]
 
 
@@ -60,6 +63,8 @@ round cell tumor라는 것을확인
 Round cell tumor는
 - 비교적 한 종류의 round cell로 꽉 차 있다.
 
+없어지는 것은
+아래에서부터 림프구, 형질세포 등 면역세포들이 아래에서부터 쭉 올라오면서 자연적으로 사라진다.
 #### 2-1. Canine Cutaneous Histiocytoma vs. Epitheliotropic Lymphoma
 
 Canine Histiocytoma와 비슷한 조직학적 소견을 보이는 종양으로, 두 종양의 예후는 완전히 다르기 때문에 세밀한 구분이 필요하다.
@@ -69,6 +74,11 @@ Canine Histiocytoma와 비슷한 조직학적 소견을 보이는 종양으로, 
 | 종양세포가 표피 선을 따라 배열되어 있다. | 종양세포가 표피 선과 떨어져 있다.      |
 | collagen이 거의 없다.        | 사이사이 collagen이 많이 보인다.   |
 | 진피층에만 국한되어 자란다.         | 표피침습성을 가진다.              |
++ 저배율에서 아래쪽 피하지방층까지 계속 공격적인 모습 → histiocytoma에서 보이는 모습은 아님.
+
+왼쪽 histiocytoma vs epitheliotropic
+왼쪽이 핵이 더 크고, 핵이 제멋대로, 콩 모양.
+오른쪽은 핵이 훨씬 둥근 경향.
 
 Round cell tumor는 type에 따라 예후가 다르다. 진단명에 따라 예후가 완전히 다르기 때문에 구분을 잘해야 한다.
 
@@ -87,12 +97,16 @@ histiocyte 확인 마커, lymphoma 확인 마커.. 이런 종류별 마커를 �
 ### Cutaneous Lymphoma
 
 - T 또는 B lymphocytes에서 유래한 종양이다.
-- T cell 유래의 경우 표피에 바짝 붙어서, microabscesses(아주작은 농양)을 형성하는 병변을 보인다. 표피에 바짝 붙고, 표피에 침습하는 경향성을 보인다.
+- T cell 유래의 경우 표피에 바짝 붙어서, microabscesses(아주작은 농양)을 형성하는 병변을 보인다. 표피에 바짝 붙고, 표피에 침습하는 경향성을 보인다. (← epitheliotropic의 특징)
 - 비정형성이 높다(high-grade atypia), 즉 제멋대로 생긴 편이다. 그래서 다른 계열과 헷갈리기 쉽다.
 - 확진을 위한 면역염색
-	- T cell 유래 확인 : CD3+
-	- B cell 유래 확인 : CD79a+
+	- T cell 유래 확인 : CD3+ (CD5)
+	- B cell 유래 확인 : CD79a+ (+Pax5)
+
+바로 cytology 해서 항암하는 경우가 많다.
+
 ### Plasmacytoma
+- Lymphoma보다는 안전한 종양. Histiocytoma보다는 위험.
 - B cell에서 분화한 plasma cell에서 유래한 종양이다.
 - 사지의 피부, 구강 (limbs, oral clavity) 에서 호발한다.
 	- 구강에 생기면 oral plasmacytoma
@@ -101,12 +115,13 @@ histiocyte 확인 마커, lymphoma 확인 마커.. 이런 종류별 마커를 �
 	- CD79a는 B cell과 plasma cell에 둘 다 반응함
 	- MUM1은 plasma cell에 특이적으로 반응 (요즘 더 선호됨)
 
+Plasma cell이 많아지면 단백질, 항체가 많이 분비되어서 아밀로이드 축적 등의 문제가 생길 수 있다.
 ### Mast Cell Tumor
 - Dermal mast cells에서 유래한 종양이다.
 - Mast cell은 세포질 안에 호염성 과립을 많이 가진다.
 	- 하지만 eosinophilic/basophilic 과립이 둘 다 관찰되는 편이다.
 	- 호염성인지 호산성인지보다는, 세포질 자체가 과립 양상인지 아닌지가 중요하다.
-- 확신을 위해서는 면역염색이 필요하다 : **c-Kit** (CD117)+, tryptase+
+- 확진을 위해서는 면역염색이 필요하다 : **c-Kit** (CD117)+, tryptase+
 	- c-Kit은 아주 유명한 mast cell 마커~
 ### Transmissible Venereal Tumor (TVT)
 - 가장 보기 어렵다.
@@ -129,6 +144,7 @@ histiocyte 확인 마커, lymphoma 확인 마커.. 이런 종류별 마커를 �
 
 병리적 판단 기준과 예후가 가장 안 맞는 종양 중 하나.
 
+피부 종양의 20% 정도가 MCT.
 
 #### In Dogs
 - 발생률이 높다.
@@ -172,11 +188,12 @@ High MC는 전이(metastasis)와는 상관이 있지만, 재발(recurrence)과�
 	- 나이, 종양이 얼마나 큰지, 위치, 절제가 잘 되었는지, 침습적이지 않은지 다 고려해서 grading
 	- 도말(cytology)을 통해 screening을 할 수 있다 (도말로 MCT 의심 먼저 → 조직검사)
 
-#### In Dogs
+#### In Cats
 
 - MCT : 고양이 피부종양의 거의 20%
 - 고양이에서는 양성인 경우가 좀 더 많지만, 1/5 정도(22%)는 악성으로 진행.
 
+대부분 ㅇㅖ후가 좋다.
 
 >[!tldr] 연구
 >- Group 1 : 1000일이상 생존
@@ -197,6 +214,8 @@ Tumor diameter > 1.5cm 이면 악성 behavior를 보일 확률이 높다.
 	- Pyknosis/karyorrhexis
 	- Neoplastic emboli
 	- Lymphoid aggregates
+
+주로 줄지어서 나란히 있는 것처럼 배열되어 있는 것이 특징.
 
 ---
 
@@ -226,3 +245,11 @@ histiocytoma는 배제
 	- Histiocyte → 배제 가능.
 	- Round cell 형태만 보고 lymphoma라고 구분하는 것까지는 바라지 않는다..
 - Stage는 높은 편에 속함.
+
+
+- Mast cell tumor는
+	- cutaneous : 
+	- subcutaneous 가 더 안전한 편이다.
+
+
+만성염증 → 지방조직에 침착되면서 연부조직육종과 잘 헷갈린다.
