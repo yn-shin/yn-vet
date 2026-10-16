@@ -4,7 +4,7 @@ share: "true"
 <font color="#7f7f7f">족보 기반 +@ 정리~
 안 넣은 내용도 꽤 있음~</font>
 
-🚩**Table of Contents** 
+🚩**Table of Contents** (오른쪽 하단에서 이동)
 
 - Ch.1 식품위생학 개론
 	- 1.1 식품위생의 개념
