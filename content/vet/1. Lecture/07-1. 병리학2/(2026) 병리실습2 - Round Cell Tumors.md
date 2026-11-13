@@ -9,7 +9,7 @@ share: "true"
 > - Epithelial (상피세포 유래) : 외/중/내배엽 유래. adenoma/adenocarcinoma, papilloma/carcinoma
 > - Round cell (면역세포 유래) : mesenchymal에 해당하지만 따로 분류.
 
-### 1. Overview of Round Cell Tumors in Dogs
+# 1. Overview of Round Cell Tumors in Dogs
 
 - 대부분 <u>면역세포 유래</u>다. (hematopoietic or dendritic lineages)
 - 흔한 종류 : Histiocytoma, Lymphoma, Plasmacytoma, Mast Cell Tumor, TVT
@@ -34,38 +34,43 @@ share: "true"
 - Lymphocytes : 핵의 비중이 훨씬 높다.
 - Epithelioid macrophages, multinucleated giant macrophages : 육아종성 염증에서 더 중요한 지표이지만, histiocytoma(악성)에서도 관찰될 수 있다.
 
-### 2. Canine Cutaneous Histiocytoma
 
-- 자연적으로 퇴행 가능, 가장 안전한 종양
+동글동글한 round cell 계열에서 기원한 종양이다?
+→ Histiocytoma / mast cell / lymphoma / plasma cell tumor 등을 떠올리고 감별한다.
+
+먼저 각 종양의 특징을 살펴보자.
+
+# 2. Types of Round Cell Tumors
+### 1) Canine Cutaneous Histiocytoma
+
+\* Histiocyte(조직구)란 원래 [조직에 존재하는 macrophage]를 이르는 용어로 사용되었으나, 이제는 그 범위가 넓어져 [조직에 존재하는 macrophage, dendritic cell, langerhans cell]을 포괄하여 이른다.
+
 - 기원 : 피부에 정상적으로 존재하는 Langerhans cells
-- 어린 개에서 나타남 (<4 years) / 
+	- (Langerhans cell : 피부에 존재하는 특수한 dendritic cells)
+- 어린 개에서 나타난다. (<4 years) 
+- 자연적으로 퇴행 가능, 가장 안전한 종양이다.
 
->[!tldr] Histology of Histiocytoma
+
+
+>[!tldr] Histiocytoma의 조직학적 특징
+>- ⭐ **wedge-shaped** : 확진의 중요한 기준 중 하나. (안쪽으로 뾰족하게 - 안전하게 자라는 것)
+>- ⭐ <u>종양세포가 표피에 붙어서 자란다</u>는 특징이 있다. (중요한 구별점 중 하나)
 >- dense dermal infiltrates : **진피층에 국한**되는 경우가 많음.
->- **pleomorphism** : histiocytoma의 기본 성질. 보인다고 무조건 악성도가 높다고 X
 >- minimal stroma : 진피층에 종양이 자라, 진피층에 있어야 할 것들이 사라짐. (콜라겐이 싹 사라짐)
->- **wedge-shaped** : 확진의 중요한 기준 중 하나. (안쪽으로 뾰족하게 - 안전하게 자라는 것)
->- <u>종양세포가 표피에 붙어서 자란다</u>는 특징이 있다. (중요한 구별점 중 하나)
+>- **pleomorphism** : histiocytoma의 기본 성질. 보인다고 무조건 악성도가 높다고 판단하면 안 된다.
 
 wedge-shape → 표피에 붙어서 자람 → 그 뒤에 고배율에서 세포 특징까지 확인
 *상피처럼 뭉쳐있는 묶인 느낌이 없음. 상피랑 헷갈리는 건 아님.
 ![[Pasted image 20260504015126.jpg|1000]]
 
 
+>[!warning] Round cell tumor를 판단하기 이전에
+> Round cell은 대개 면역세포 유래. ⇒ Round cell tumor 중에서 감별진단 하기 이전에, 염증인지 종양인지 감별이 필요하다.
+> - 염증은 좀 더 heterogenous하고 (여러 세포 종류가 섞여 있음),
+> - 종양은 비교적 한 종류의 round cell로 꽉 차 있다.
 
-round cell tumor 중에서 감별진단 하기 이전에
-round cell tumor라는 것을확인
-염증과 감별 필요.
-
-염증은
-- ?
-- 좀 더 heterogenous(여러 세포가 뒤섞여 있음), 
-Round cell tumor는
-- 비교적 한 종류의 round cell로 꽉 차 있다.
-
-없어지는 것은
-아래에서부터 림프구, 형질세포 등 면역세포들이 아래에서부터 쭉 올라오면서 자연적으로 사라진다.
-#### 2-1. Canine Cutaneous Histiocytoma vs. Epitheliotropic Lymphoma
+- Cutaneous histiocytoma가 퇴축할 때는: 아래에서부터 림프구, 형질세포 등 면역세포들이 쭉 올라오면서 자연적으로 사라진다.
+#### ✅ Canine Cutaneous Histiocytoma vs. Epitheliotropic Lymphoma
 
 Canine Histiocytoma와 비슷한 조직학적 소견을 보이는 종양으로, 두 종양의 예후는 완전히 다르기 때문에 세밀한 구분이 필요하다.
 
@@ -94,7 +99,7 @@ histiocyte 확인 마커, lymphoma 확인 마커.. 이런 종류별 마커를 �
 
 
 
-### Cutaneous Lymphoma
+###  2) Cutaneous Lymphoma
 
 - T 또는 B lymphocytes에서 유래한 종양이다.
 - T cell 유래의 경우 표피에 바짝 붙어서, microabscesses(아주작은 농양)을 형성하는 병변을 보인다. 표피에 바짝 붙고, 표피에 침습하는 경향성을 보인다. (← epitheliotropic의 특징)
@@ -105,7 +110,7 @@ histiocyte 확인 마커, lymphoma 확인 마커.. 이런 종류별 마커를 �
 
 바로 cytology 해서 항암하는 경우가 많다.
 
-### Plasmacytoma
+### 3) Plasmacytoma
 - Lymphoma보다는 안전한 종양. Histiocytoma보다는 위험.
 - B cell에서 분화한 plasma cell에서 유래한 종양이다.
 - 사지의 피부, 구강 (limbs, oral clavity) 에서 호발한다.
@@ -116,14 +121,14 @@ histiocyte 확인 마커, lymphoma 확인 마커.. 이런 종류별 마커를 �
 	- MUM1은 plasma cell에 특이적으로 반응 (요즘 더 선호됨)
 
 Plasma cell이 많아지면 단백질, 항체가 많이 분비되어서 아밀로이드 축적 등의 문제가 생길 수 있다.
-### Mast Cell Tumor
+### 4) Mast Cell Tumor
 - Dermal mast cells에서 유래한 종양이다.
 - Mast cell은 세포질 안에 호염성 과립을 많이 가진다.
 	- 하지만 eosinophilic/basophilic 과립이 둘 다 관찰되는 편이다.
 	- 호염성인지 호산성인지보다는, 세포질 자체가 과립 양상인지 아닌지가 중요하다.
 - 확진을 위해서는 면역염색이 필요하다 : **c-Kit** (CD117)+, tryptase+
 	- c-Kit은 아주 유명한 mast cell 마커~
-### Transmissible Venereal Tumor (TVT)
+### 5) Transmissible Venereal Tumor (TVT)
 - 가장 보기 어렵다.
 - Histiocyte 계열에서 유래한 종양이다.
 - 외부 생식기, 구강에서 호발한다.
@@ -133,12 +138,11 @@ Plasma cell이 많아지면 단백질, 항체가 많이 분비되어서 아밀�
 - 양성인 경우가 많다. 악성일 경우는 드물지만 있다.
 	- Cutaneous histiocytoma는 무조건 양성인데, TVT는 종종 악성일 수도 있다.
 
-![[Pasted image 20260515004833.jpg|Pasted image 20260515004833.jpg]]
+![[Pasted image 20260515004833.jpg|700]]
 
 
 
-
-### Canine and Feline Mast Cell Tumors
+# 3. Canine and Feline Mast Cell Tumors
 
 주로 Low-graded와 high-graded로 나눈다. ⇒ 임상적으로도 밀접한 관련.
 
@@ -158,7 +162,7 @@ Plasma cell이 많아지면 단백질, 항체가 많이 분비되어서 아밀�
 	- 기준 : 세포의 모양, 침습적인지, 분열 속도, 괴사
 - 2-Tier : Low & High로 나누었다.
 	- 기준 : 분열 속도, 비정상적인 핵, 핵이 여러 개, 핵이 커져 있는 것 ⇒ 세포의 모양만 보고 결정하므로 부적절하다.
-
+ㅇ
 그래서 요즘은 둘 다 쓴다.
 - Grade Ⅰ / Low
 - Grade Ⅱ / Low or High
